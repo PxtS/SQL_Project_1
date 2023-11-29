@@ -3,7 +3,7 @@
 - FILE LINK - https://ourworldindata.org/covid-deaths
 
 ## Dataset Preparation:-
-- Separating the entire dataset (67 rows x 1,76,916 columns) into two different datasets:-
+- Separating the entire dataset (1,76,916 rows X 67 columns) into two different datasets:-
   - Covid_deaths_April_2022 - 26 columns
   - Covid_vaccinations_April 2022 - 45 columns
   
