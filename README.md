@@ -12,4 +12,3 @@
   - Continent
   - Location
   - Date
-werqewqeqweq
