@@ -12,3 +12,5 @@
   - Continent
   - Location
   - Date
+
+SQL Code file - https://github.com/PxtS/SQL_Project_1/blob/main/SQL%20Project%20-%20Covid%20Dataset%20Analysis.sql
